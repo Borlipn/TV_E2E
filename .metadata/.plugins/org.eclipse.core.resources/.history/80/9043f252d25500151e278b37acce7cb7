@@ -1,0 +1,28 @@
+package core.TV_E2E;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class TV_Selenium {
+	
+	public String[][] Array2D() throws IOException {
+		String csvFile = "./src/main/resources/properte_file_CSV.csv";
+		BufferedReader br = null;
+		String line = null;
+		int lines = 0;
+		int columns = 0;
+		String SplitBy = ",";
+		String num = null;
+		String tf = null; 
+		
+			br = new BufferedReader(new FileReader(csvFile));
+			while ((line = br.readLine()) != null) {
+				lines++;
+				String[] column = line.split(SplitBy);
+				columns = column.length;
+
+													}
+			br.close();
+	}
+	}

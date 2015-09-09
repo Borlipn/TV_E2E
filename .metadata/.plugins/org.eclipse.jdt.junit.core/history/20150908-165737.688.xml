@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Junit_Selenium_Webdriver_TestCases" project="TV_E2E" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="core.TV_E2E.Junit_Selenium_Webdriver_TestCases" time="0.0">
+    <testcase name="initializationError" classname="core.TV_E2E.Junit_Selenium_Webdriver_TestCases" time="0.0">
+      <error>java.lang.NoClassDefFoundError: org/w3c/dom/ElementTraversal&#13;
+	at java.lang.ClassLoader.defineClass1(Native Method)&#13;
+	at java.lang.ClassLoader.defineClass(Unknown Source)&#13;
+	at java.security.SecureClassLoader.defineClass(Unknown Source)&#13;
+	at java.net.URLClassLoader.defineClass(Unknown Source)&#13;
+	at java.net.URLClassLoader.access$100(Unknown Source)&#13;
+	at java.net.URLClassLoader$1.run(Unknown Source)&#13;
+	at java.net.URLClassLoader$1.run(Unknown Source)&#13;
+	at java.security.AccessController.doPrivileged(Native Method)&#13;
+	at java.net.URLClassLoader.findClass(Unknown Source)&#13;
+	at java.lang.ClassLoader.loadClass(Unknown Source)&#13;
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)&#13;
+	at java.lang.ClassLoader.loadClass(Unknown Source)&#13;
+	at core.TV_E2E.TV_Selenium.Array2D(TV_Selenium.java:40)&#13;
+	at core.TV_E2E.Junit_Selenium_Webdriver_TestCases.data(Junit_Selenium_Webdriver_TestCases.java:36)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)&#13;
+	at java.lang.reflect.Method.invoke(Unknown Source)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.runners.Parameterized.allParameters(Parameterized.java:280)&#13;
+	at org.junit.runners.Parameterized.&lt;init&gt;(Parameterized.java:248)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:104)&#13;
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:86)&#13;
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)&#13;
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)&#13;
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)&#13;
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:33)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createUnfilteredTest(JUnit4TestLoader.java:84)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createTest(JUnit4TestLoader.java:70)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.loadTests(JUnit4TestLoader.java:43)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:444)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+Caused by: java.lang.ClassNotFoundException: org.w3c.dom.ElementTraversal&#13;
+	at java.net.URLClassLoader$1.run(Unknown Source)&#13;
+	at java.net.URLClassLoader$1.run(Unknown Source)&#13;
+	at java.security.AccessController.doPrivileged(Native Method)&#13;
+	at java.net.URLClassLoader.findClass(Unknown Source)&#13;
+	at java.lang.ClassLoader.loadClass(Unknown Source)&#13;
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)&#13;
+	at java.lang.ClassLoader.loadClass(Unknown Source)&#13;
+	... 40 more&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

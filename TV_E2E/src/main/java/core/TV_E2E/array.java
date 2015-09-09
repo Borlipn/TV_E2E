@@ -1,0 +1,20 @@
+package core.TV_E2E;
+
+//public class array {
+
+	//public static void main(String[] args) {
+	 // String[][] array = new String [5][5];//2D Array 
+	  
+		 //for(int i=0; i<array[0].length;i++) {
+			
+		    // for(int j=0; j<array[1].length;j++)
+		     //{
+		        // System.out.print(array[i][j]="" + j);
+		    // }
+		    // System.out.println("\t" + i);
+		
+		// }
+
+	//}
+
+//}
