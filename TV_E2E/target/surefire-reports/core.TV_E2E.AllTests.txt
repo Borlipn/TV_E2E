@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: core.TV_E2E.AllTests
 -------------------------------------------------------------------------------
-Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.814 sec <<< FAILURE!
-Test_TV_Verification[Iteration # 5: Expected: "Online Auctions: Laptops; Actualy Online Auctions: Laptops, Desktops, TVs, Electronics, Home & Garden | uBid.com](core.TV_E2E.Junit_Selenium_Webdriver_TestCases)  Time elapsed: 0.02 sec  <<< FAILURE!
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.844 sec <<< FAILURE!
+Test_TV_Verification[Iteration # 5: Expected: "Online Auctions: Laptops; Actualy Online Auctions: Laptops, Desktops, TVs, Electronics, Home & Garden | uBid.com](core.TV_E2E.Junit_Selenium_Webdriver_TestCases)  Time elapsed: 0.025 sec  <<< FAILURE!
 org.junit.ComparisonFailure: FAILED expected:<["Online Auctions: Laptops]> but was:<[Online Auctions: Laptops, Desktops, TVs, Electronics, Home & Garden | uBid.com]>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at core.TV_E2E.Junit_Selenium_Webdriver_TestCases.Test_TV_Verification(Junit_Selenium_Webdriver_TestCases.java:42)

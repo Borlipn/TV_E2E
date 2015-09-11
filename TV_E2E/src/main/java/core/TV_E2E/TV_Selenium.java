@@ -6,9 +6,9 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+ import org.openqa.selenium.chrome.ChromeDriver;
 //import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-
+//import org.openqa.selenium.firefox.FirefoxDriver;
 public class TV_Selenium {
 	
 	public String[][] Array2D() throws IOException {
@@ -36,8 +36,9 @@ public class TV_Selenium {
 			 
 		String WebsiteTitleArray[][] = new String [lines][columns];
 		br = new BufferedReader(new FileReader(csvFile));
-		WebDriver driver = new ChromeDriver();
-		//WebDriver driver = new HtmlUnitDriver();
+		 WebDriver driver = new ChromeDriver();
+		// WebDriver driver = new HtmlUnitDriver();
+		//WebDriver driver = new FirefoxDriver();
 		int i =0;
 		while ((line = br.readLine()) != null) {
 			String[] csv = line.split(SplitBy);
