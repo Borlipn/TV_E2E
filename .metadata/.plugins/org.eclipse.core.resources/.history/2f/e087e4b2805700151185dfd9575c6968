@@ -1,0 +1,19 @@
+package core.TV_E2E;
+
+import org.junit.runner.JUnitCore;
+import org.junit.runner.Result;
+import org.junit.runner.notification.Failure;
+
+public class TestRunner {
+
+	public static void main(String[] args) {
+		Result result = JUnitCore.runClasses(TV_Selenium.class);
+		for (Failure failure : result.getFailures()) {
+			System.out.println(failure.toString());}
+		if (result.wasSuccessful()) {
+			System.out.println("All Test Cases finished successfully!");
+		}
+
+	}
+
+}

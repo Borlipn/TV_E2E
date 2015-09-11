@@ -367,3 +367,64 @@
 2015-09-08 17:44:23,600 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-09-08 17:44:23,605 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-09-08 17:44:23,605 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-08 20:26:23,029 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-08 20:26:23,045 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-09-08 20:26:23,045 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-08 20:26:23,045 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-09 22:43:40,065 [Worker-184] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:${build.version} @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-09 22:43:44,459 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:43:44,474 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-09 22:43:44,474 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:43:44,474 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-09 22:44:15,702 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:44:15,718 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-09-09 22:44:15,718 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:44:15,718 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-09 22:44:15,858 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:44:15,858 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-09-09 22:44:15,874 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:44:15,874 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-09 22:56:38,325 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:56:38,325 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-09-09 22:56:38,325 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-09 22:56:38,325 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 17:15:09,212 [Worker-221] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 17:15:42,774 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:15:42,834 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 17:15:42,944 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:15:42,944 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 17:44:41,596 [Worker-229] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 17:44:53,658 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:44:53,658 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 17:44:53,705 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:44:53,705 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 17:48:38,841 [Worker-229] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 17:48:45,222 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:48:45,222 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 17:48:45,272 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 17:48:45,272 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 19:44:55,027 [Worker-270] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 19:44:58,550 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:44:58,550 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 19:44:58,560 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:44:58,560 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 19:52:16,231 [Worker-271] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 19:52:20,363 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:52:20,363 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 19:52:20,409 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:52:20,409 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 19:56:03,130 [Worker-276] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 19:56:06,514 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:56:06,524 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 19:56:06,524 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 19:56:06,524 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 20:25:42,617 [Worker-286] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:1.3 @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 20:25:47,034 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 20:25:47,039 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 20:25:47,044 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 20:25:47,045 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
+2015-09-10 20:41:23,887 [Worker-292] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:TV_E2E:${build.number} @ C:\Users\Bel\Java\Demo\TV_E2E\pom.xml.
+2015-09-10 20:41:27,829 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 20:41:27,829 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-09-10 20:41:27,839 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-10 20:41:27,839 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Bel\Java\Demo\TV_E2E\src\test\resources
