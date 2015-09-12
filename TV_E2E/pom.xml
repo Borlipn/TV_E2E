@@ -4,7 +4,7 @@
 
   <groupId>core</groupId>
   <artifactId>TV_E2E</artifactId>
-  <version>${build.number}</version>
+  <version>${build.version}</version>
   <packaging>jar</packaging>
 
   <name>TV_E2E</name>
@@ -40,7 +40,7 @@
 		</plugin>
 	</plugins>
   </reporting>
-  <build>
+  <!-- <build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -49,8 +49,6 @@
 				<configuration>
 					<archive>
 						<manifest>
-						<!-- <mainClass>${mainClass}</mainClass>  // operating from command line with maven -->-->
-							<!-- <mainClass>core.HtmlUnit</mainClass> -->
 							<mainClass>core.TV_E2E.TV_Selenium </mainClass>  
 						</manifest>
 					</archive>
@@ -69,5 +67,5 @@
 				</executions>
 			</plugin>
 		</plugins>
-	</build>
+	</build> -->
  </project>
