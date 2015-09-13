@@ -7,7 +7,8 @@ import org.junit.runners.Suite.SuiteClasses;
 @RunWith(Suite.class)
 
 @SuiteClasses
-({ Junit_Selenium_Webdriver_TestCases.class })
+({ Junit_Selenium_Webdriver_TestCases.class,
+   Junit_Selenium_Param_Contructor.class})
 
 public class AllTests {
 

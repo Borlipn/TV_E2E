@@ -37,7 +37,7 @@ public class TV_Selenium {
 		String WebsiteTitleArray[][] = new String [lines][columns];
 		br = new BufferedReader(new FileReader(csvFile));
 		 WebDriver driver = new ChromeDriver();
-		// WebDriver driver = new HtmlUnitDriver();
+		//WebDriver driver = new HtmlUnitDriver();
 		//WebDriver driver = new FirefoxDriver();
 		int i =0;
 		while ((line = br.readLine()) != null) {

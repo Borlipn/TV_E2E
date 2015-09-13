@@ -1,0 +1,47 @@
+package core.TV_E2E;
+
+import static org.junit.Assert.assertEquals;
+
+import java.util.Arrays;
+import java.util.Collection;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+import org.junit.runners.Parameterized.Parameters;
+
+
+@RunWith(Parameterized.class)
+public class Junit_Selenium_Param_Contructor {
+
+	//Columns 
+	
+		private String  test_id;
+		private  String expected;
+		private String actual;
+		
+	//Constructor
+// Each parameter should be placed as an argument here every time runner triggers, it will pass the arguments
+// from parameters we defined in Array2D() method
+		public Junit_Selenium_Param_Contructor(String TestID, String expected_Result, String actual_Result) {
+			this.test_id = TestID;
+			this.expected = expected_Result;
+			this.actual = actual_Result;
+		}
+		//Test data generator
+		
+		@Parameters
+		 public static Collection<String[]> data() throws Exception {
+		core.TV_E2E.TV_Selenium  data_from_cvs = new core.TV_E2E.TV_Selenium();
+			return Arrays.asList(data_from_cvs.Array2D());
+   	 																}
+
+
+		@Test
+	    public void Test_TV_Verification() {
+			System.out.print("\n Test Case: " + test_id + "\n Expected Result: " + expected + "\n Actual Result: " + actual);
+			assertEquals("", expected, actual);
+	    }
+	}
+
+
